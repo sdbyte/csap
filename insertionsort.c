@@ -1,4 +1,4 @@
-#define MAX 10000
+#define MAX 100000
 #include <stdio.h>
 #include "random.c"
 
@@ -52,7 +52,7 @@ void output()
 
 	for(i=0;i<n;i++)
 	{
-		printf(" %d ",a[i]);
+		printf("%d\t",a[i]);
 	}
 }
 
