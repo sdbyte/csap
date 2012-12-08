@@ -7,6 +7,10 @@ int main()
 
 	while(choice<4)
 	{
+		printf("\n\n\n\n\nWELCOME TO SAMn CodingSystem AdvancedProfile");
+		printf("\n\nVersion 2.0");
+		printf("\n\n©SUNNY SUTHAR 2012-2013");
+		
 		printf("\n\nEnter 1 for mergesort and enter 2 for insertionsort:");
 		scanf("%d",&choice);
 	
